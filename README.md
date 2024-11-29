@@ -54,7 +54,19 @@
 
 15. Afficher tous les films qui n’ont pas de résumé
 
+![image](https://github.com/user-attachments/assets/fe8ed7d9-b8ff-48b1-9b25-575433075d31)
+
 16.  Afficher tous les films tournés avec Leonardo DiCaprio en 1997
+
+![image](https://github.com/user-attachments/assets/2bc71f0f-81d5-4e60-87b2-59ea4f0609f2)
+
+17. Afficher les films tournés avec Leonardo DiCaprio ou en 1997
+
+![image](https://github.com/user-attachments/assets/c7092e62-1801-46a6-b456-488524beea2a)
+
+
+
+
 
 
 
